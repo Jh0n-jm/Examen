@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "Title": "Casa Moderna",
+    "image": "imagenes/01.jpg",
+    "description": "Una nueva aventura en el mundo de los dinosaurios",
+    "year": 2015,
+    "genre": "Acción/Aventura",
+    "rating": 7.0,
+    "duration": "124 min",
+    "director": "Colin Trevorrow",
+    "synopsis": "La Casa esta hecha de buenos materiales que garantizan su durabilidad y confort, cuenta con 3 baños 5 habitaciones y una amplia sala de estar dentro tambien teien una picina y 1 cochera incluso cuenta con balcones dentro de la casa."
+  },
+  {
+    "id": 2,
+    "title": "How to Train Your Dragon",
+    "image": "imagenes/02.jpg",
+    "description": "Una casa lista para tus vacaciones",
+    "category": "Apartamento",
+    "area": "Zona 1",
+    "rating": 8.1,
+    "price": "$250,000",
+    "city": "Guatemala",
+    "synopsis": "Hiccup es un adolescente vikingo que no encaja exactamente en la tradición ancestral de su tribu como cazador de dragones. Su mundo se trastorna cuando encuentra a Toothless, un dragón que lo desafía a él y a su tribu a ver el mundo desde un punto de vista totalmente diferente."
+  },
+  {
+    "id": 3,
+    "title": "Jurassic Park",
+    "image": "imagenes/03.jpg",
+    "description": "La película que inició todo en Isla Nublar",
+    "year": 1993,
+    "genre": "Aventura/Sci-Fi",
+    "rating": 8.1,
+    "duration": "127 min",
+    "director": "Steven Spielberg",
+    "cast": ["Sam Neill", "Laura Dern", "Jeff Goldblum"],
+    "synopsis": "Un multimillonario excéntrico y un grupo de científicos genéticos han creado un parque temático de dinosaurios clonados. Antes de abrir la atracción al público, invitan a un equipo para que haga una inspección y se asegure de que el parque es seguro. Sin embargo, el parque resulta ser cualquier cosa menos seguro cuando los dinosaurios se liberan."
+  },
+  {
+    "id": 4,
+    "title": "Dragon Ball Super: Broly",
+    "image": "imagenes/04.jpg",
+    "description": "La batalla más épica de los Saiyajins",
+    "year": 2018,
+    "genre": "Anime/Acción",
+    "rating": 7.7,
+    "duration": "100 min",
+    "director": "Tatsuya Nagamine",
+    "cast": ["Masako Nozawa", "Ryo Horikawa", "Toshio Furukawa"],
+    "synopsis": "La Tierra está en paz después del Torneo de Poder. Goku, sabiendo que existen individuos aún más fuertes en otros universos, pasa todos los días entrenando para alcanzar un nivel aún mayor. Entonces, un día aparece ante Goku y Vegeta un Saiyajin llamado Broly, a quien nunca habían visto antes."
+  }
+]
